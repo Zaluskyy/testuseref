@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Zaluskyy/testuseref/static/css/main.a617e044.chunk.css",
+    "main.js": "/Zaluskyy/testuseref/static/js/main.326733cf.chunk.js",
+    "main.js.map": "/Zaluskyy/testuseref/static/js/main.326733cf.chunk.js.map",
+    "runtime-main.js": "/Zaluskyy/testuseref/static/js/runtime-main.8b3103de.js",
+    "runtime-main.js.map": "/Zaluskyy/testuseref/static/js/runtime-main.8b3103de.js.map",
+    "static/js/2.ae28b270.chunk.js": "/Zaluskyy/testuseref/static/js/2.ae28b270.chunk.js",
+    "static/js/2.ae28b270.chunk.js.map": "/Zaluskyy/testuseref/static/js/2.ae28b270.chunk.js.map",
+    "index.html": "/Zaluskyy/testuseref/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Zaluskyy/testuseref/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ae28b270.chunk.js.LICENSE.txt": "/Zaluskyy/testuseref/static/js/2.ae28b270.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b3103de.js",
+    "static/js/2.ae28b270.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.326733cf.chunk.js"
+  ]
+}

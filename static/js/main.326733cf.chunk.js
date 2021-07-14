@@ -1,0 +1,2 @@
+(this.webpackJsonptestuseref=this.webpackJsonptestuseref||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var s=n(0),c=n.n(s),r=n(3),i=n.n(r),a=(n(8),n(9),n(1));var u=function(){return Object(a.jsx)("div",{className:"App",children:"jeba\u0107 disa skurwysyna"})};i.a.render(Object(a.jsx)(c.a.StrictMode,{children:Object(a.jsx)(u,{})}),document.getElementById("root"))},8:function(e,t,n){},9:function(e,t,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.326733cf.chunk.js.map
