@@ -5,18 +5,18 @@ function App() {
   
   // const canvas = useRef(null)
   
-  class Magic{
-    constructor(x, y){
-      this.x = x
-      this.y = y
-    }
-    draw(){
+  // class Magic{
+    // constructor(x, y){
+      // this.x = x
+      // this.y = y
+    // }
+    // draw(){
       // const c = canvas.current.getContext("2d");
       // c.arc(this.x, this.y, 50, 0, Math.PI*2, false)
       // c.fill()
-    }
-  }
-  const magic = new Magic(200, 200)
+    // }
+  // }
+  // const magic = new Magic(200, 200)
 
   // useEffect(()=>{
   //   animate()
